@@ -10,7 +10,7 @@ def linearSearch(inputList, searchElement):
 	return position;
 
 inputList = [1,3,2,6,5,4,9,8,7]
-searchElement = 1
+searchElement = 5
 
 
 start = time.time()
